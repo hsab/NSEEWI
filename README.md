@@ -1,2 +1,2 @@
 # NSEEWI
-![Teaser image](./readme_image.png)
+![Teaser image](./readme_image.jpg)
